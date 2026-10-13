@@ -97,7 +97,7 @@ def main():
             continuar = False
 
         else:
-            print("aaaaaaaaaeeeeeeeeee")
+            print("introduzca un valir valido")
             parar()
 
 
