@@ -97,7 +97,7 @@ def main():
             continuar = False
 
         else:
-            print("Seleccione unaaaaaaaaaaeeeeeeeee opción válida.")
+            print("aaaaaaaaaeeeeeeeeee")
             parar()
 
 
