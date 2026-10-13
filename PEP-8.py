@@ -60,7 +60,7 @@ def main():
             if temperatura is not None:
                 parar()
 
-        elif opcion in ("2", "3", "4", "5", "6", "7"):
+        elif opcion in ("2","3" "3", "4", "5", "6", "7"):
             if temperatura is None:
                 print("Primero debe capturar una temperatura.")
                 parar()
